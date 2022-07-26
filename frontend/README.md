@@ -23,9 +23,12 @@ REACT_APP_API_BASE_URL="http://localhost:3000/api/v1"
 
 ## How to run
 
+n
+
 1. `npm start`
 
 ## Requirements Checklist
+
 - [x] User should be able to see a list of shifts
 - [x] User should be able to see the name, date, start time, end time of each shift
 - [x] User should be able to create & update shifts via form
